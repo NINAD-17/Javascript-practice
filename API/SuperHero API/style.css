@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1B2430;
+}
+
+.superHeroImage {
+    height: 450px;
+    width: 330px;
+    border-radius: 15px;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 165px
+}
+
+.btn {
+    border-radius: 15px;
+}
+
+.navbar {
+    text-align: center;
+    background-color: #51557E;
+}
+
+.displayHeroContent {
+    margin-top: 90px;
+    height: 500px;
+    background-color: #51557E;
+    border-radius: 20px;
+}
+
+.description {
+    position: absolute;
+    height: 450px;
+    width: 720px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: left;
+    background-color: #1B2430;
+}
+
+.imgDiv {
+    position: absolute;
+    height: 450px;
+    width: 330px;
+    right: 79px;
+    border-radius: 20px;
+    background-color: #1B2430;
+}
+
+.mainContainer {
+    padding: 10px
+}
+
+.randombtn {
+    margin-left: 10px;
+}
+
+#inputHero {
+    width: 400px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+
+#searchHero:hover {
+    background-color: #1B2430;
+    color: aliceblue;
+}
+
+#searchHero {
+    background-color: aliceblue;
+    color: #1B2430;
+}
+
+.heroName {
+    color: #F4F9F9;
+    font-size: 70px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.descriptionText {
+    margin-top: 50px;
+}
+
+.fullName, h4 {
+    color: #BBBFCA;
+    font-size: 22px;
+    margin-left: 30px;
+}
+
+span {
+    color: #BB99CD;
+}
+
+.powerstatsTxt {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #F05454
+}
+
+.general {
+    margin-bottom: 20px;
+    color: #F05454;
+    margin-left: 30px;
+
+}
+
+.stat {
+    position: absolute;
+    left: 420px;
+    bottom: 31px;
+}
